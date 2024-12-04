@@ -3,6 +3,8 @@ Get yourself a Solana NFT minting site. Only for $200.
 
 Mint your Solana NFTs with the latest Candy Guards, NFT Staking and Whitelisting!
 
+Built on latest Metaplex Version 3.  <a href="https://www.upwork.com/services/product/development-it-solana-candymachine-v3-solana-nft-mint-site-1862716431936689017?ref=project_share">Click to Order.</a>
+
 
 https://github.com/user-attachments/assets/64a80d54-215d-4aad-a97a-d074ca026d38
 
